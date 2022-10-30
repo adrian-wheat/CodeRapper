@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 namespace CodeRapper
 {
     /// <summary>
-    /// This class implements the IHttpClient interface. 
+    /// This class implements the <see cref="IHttpClient">IHttpClient</see> interface. 
     /// It is a wrapper class for <see cref="HttpClient">System.Net.Http.HttpClient</see>, 
     /// passing through all properties and methods straight to the HttpClient object
     /// passed through in the constructor.

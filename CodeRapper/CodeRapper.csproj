@@ -2,6 +2,11 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>Adrian Wheat</Authors>
+    <PackageId>CodeRapper</PackageId>
+    <VersionPrefix>1.0.0</VersionPrefix>
+    <VersionSuffix>$(VersionSuffix)</VersionSuffix>
+    <PackageDescription>NuGet package for CodeRapper</PackageDescription>
     <RepositoryUrl>https://github.com/adrian-wheat/CodeRapper</RepositoryUrl>
   </PropertyGroup>
 
